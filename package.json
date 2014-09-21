@@ -1,0 +1,32 @@
+{
+  "name": "Motion-Activated-Camera",
+  "version": "1.0.0",
+  "description": "Takes a picture and tweets it, when motion is detected, using Tessel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tk120404/Motion-Activated-Camera.git"
+  },
+  "keywords": [
+    "tessel",
+    "PIR",
+    "camera",
+    "security",
+    "home",
+    "twitter",
+    "tweet"
+  ],
+  "author": "Arjunkumar Krishnamoorthy",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/tk120404/Motion-Activated-Camera/issues"
+  },
+  "homepage": "https://github.com/tk120404/Motion-Activated-Camera",
+  "dependencies": {
+    "camera-vc0706": "^0.1.6",
+    "tiny-router": "0.0.6"
+  }
+}

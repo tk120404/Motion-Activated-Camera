@@ -23,3 +23,10 @@ Running the code:
 1. Run the code with `tessel run index.js` (the flag specifies where pictures will be saved).
 
 Now, when you move in front of the PIR motion detector, Tessel will take a picture and will tweet it!
+
+
+Reference:
+==========
+
+* [Tessel Cam](https://projects.tessel.io/projects/tesselcam)
+* [Motion Activated Camera](https://projects.tessel.io/projects/motion-activated-camera)
